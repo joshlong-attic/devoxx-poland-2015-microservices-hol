@@ -1,4 +1,4 @@
-# Devoxx France 2015 Microservices HOL
+# Devoxx Poland 2015 Microservices HOL
 
 ## Prerequisites
 
